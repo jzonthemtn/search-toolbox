@@ -1,0 +1,14 @@
+id,category,title,published,author,views,likes,dislikes,comments,publish_date
+0553573333,java,Java Array Example,true,Kevin Yang,2560,256,6,3,2020-05-06
+0626166238,java,Java Arrays Showcases,true,Kevin Yang,565,234,8,14,2020-03-06
+0221234283,java,Java ArrayList 101,true,Kevin Yang,875,65,2,2,2020-03-13
+0553579908,java,Java Remote Method Invocation Example,true,Kevin Yang,389,26,3,0,2010-05-23
+0563881328,java,Thread,true,Kevin Yang,1689,360,10,20,2020-03-01
+055357342Y,java,Java StringTokenizer Example,true,Kevin Yang,699,30,0,0,2020-06-01
+0553292123,java,Java HashMap Example,true,Evan Swing,5897,1033,1,86,2018-03-23
+0928237471,java,Java HashSet Example,true,Evan Swing,3828,123,8,2,2018-02-16
+0818231712,solr,Apache SolrCloud Example,true,Kevin Yang,2000,1000,10,200,2020-06-05
+0812521390,solr,The Solr Runbook,false,James Cook,300,10,0,0,2020-02-09
+0812550706,solr,The Apache Solr Cookbook,true,James Cook,180,6,1,1,2019-12-10
+0441385532,solr,The Solr REST API,false,Steven Thomas,530,30,20,2,2020-01-06
+0380014300,solr,SolrCloud Tutorial,true,Roger Goodwill,2000,1000,500,10,2020-06-05
