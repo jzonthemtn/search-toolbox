@@ -1,6 +1,6 @@
 # Search Toolbox
 
-Created as a means to allow for experimenting with search features and tools on things like Apache Solr and Elasticsearch.
+This repository was created as a means to allow for learning and experimenting with search features and tools on things like Apache Solr and Elasticsearch.
 
 ## Solr Containers
 
